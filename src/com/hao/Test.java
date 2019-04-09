@@ -10,6 +10,7 @@ public class Test {
 
         int[] arr={1,2,3};
         int[] ints = new int[5];
+        System.out.println("5555");
 
     }
 }
